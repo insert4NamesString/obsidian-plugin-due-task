@@ -1,0 +1,11 @@
+{
+	"id": "due-task-helper",
+	"name": "Due Task Helper",
+	"version": "2.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Take the text body from helppers notes to the debt task helpper note. This work as a timer.",
+	"author": "insert4NamesString",
+	"authorUrl": " ",
+	"fundingUrl": " ",
+	"isDesktopOnly": false
+}

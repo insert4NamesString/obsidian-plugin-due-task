@@ -1,0 +1,13 @@
+{
+	"id": "due-task-helper"
+    "name": "Due Task Helper",
+    "author": "insert4NamesString",
+	"description": "Help with doe task, in an independent folder."
+    "repo": "insert4NamesString/obsidian-plugin-due-task",
+}
+
+
+
+insert4NamesString
+/
+obsidian-plugin-due-task

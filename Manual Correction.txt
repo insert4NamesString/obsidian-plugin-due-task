@@ -1,0 +1,23 @@
+in the line: this.app.workspace.on(("window-open",
+be shure end: ("window-open", async () => { async () => {
+Complite line:
+
+this.app.workspace.on("window-open", async () => {
+add a new line with: await this.loadSettings();
+
+end resoult:
+this.app.workspace.on("window-open", async () => {
+    await this.loadSettings();
+...
+
+
+in the line: this.registerInterval(window.setInterval(
+be shure end: window.setInterval(async () => {
+Complite line:
+this.registerInterval(window.setInterval(async () => {
+add a new line with: await this.loadSettings();
+
+end resoult:
+this.registerInterval(window.setInterval(async () => {
+    await this.loadSettings();
+...
