@@ -5,7 +5,7 @@ interface DueTaskSetting {
 	keyWord: string;
 	shortTasks: string; //Name of subroot folder
 	activeTasks: string; //Name of child foloder
-	dailyTasks: string; //Name of autocomplite file 
+	dailyTasks: string; //Name of autocomplete file 
 	onlySeven: string;  
 	debtTask: string;
 	active1to7: boolean;
